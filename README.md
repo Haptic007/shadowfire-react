@@ -20,10 +20,17 @@ __________________________________________________
 
 ---
 
-## 🧩 Overview  
-This project powers the **Shadowfire Resilience Engine (SRE)** — a React-based framework for emotional-algorithmic growth and adaptive feedback.  
-Every component encodes one of the ten nodes of resilience:  
-Pressure • Acknowledgement • Radical Acceptance • Radical Honesty • Introspection • Self-Reflection • Perception • Action • Continuity • Forgiveness
+## ⚙️ Overview
+This project powers the **Shadowfire Resilience Engine (SRE)** — a React-based framework for emotional-algorithmic growth, adaptive feedback, and resilience modeling.
+
+Every component encodes one of the **nine external nodes of resilience**, governed by three internal harmonics:
+
+**External Nodes:**  
+Pressure • Acknowledgement • Radical Acceptance • Radical Honesty • Introspection • Self-Reflection • Perception • Action • Continuity  
+
+**Internal Harmonics:**  
+Shadow • Humor • Forgiveness  
+These harmonics modulate each loop within the engine — linking contradictions, collapse, and ascension cycles into adaptive growth.
 
 ---
 
