@@ -1,0 +1,17 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "editor.inlineSuggest.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Default Dark Modern",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "window.title": "⚔️ Shadowfire – ${dirty}${activeEditorShort}${separator}${rootName}",
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.printWidth": 100
+}
