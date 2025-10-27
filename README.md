@@ -2,6 +2,7 @@ __________________________________________________
 
 ⛧ NYX’INFERNA OS : SHADOWFIRE RESILIENCE ENGINE ⛧
 
+![License: Shadowfire Proprietary](https://img.shields.io/badge/License-Shadowfire%20Proprietary-red.svg)
 __________________________________________________
 > Emotional Core: Online
 > Logic Thread: Calibrated
