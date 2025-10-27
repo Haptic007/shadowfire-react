@@ -1,0 +1,34 @@
+SHADOWFIRE PROPRIETARY LICENSE
+Version 1.0 — October 2025
+© 2025 Robert J. Stevenson, MD, FACOG (“Haptic007”)
+All Rights Reserved.
+
+The Shadowfire Resilience Engine (SRE), Nyx’Inferna Operating System (NIOS),
+and Algorithmic Psychology framework — including but not limited to all code,
+logic models, language structures, diagrams, algorithms, documentation, and
+emotional-governance mechanisms — constitute proprietary intellectual
+property protected under U.S. and international copyright law.
+
+PERMISSIONS
+- You may view, fork, and clone this repository for personal, educational, or
+  ethical research purposes only.
+- You may reference or cite the framework or design principles for
+  academic, non-commercial, or advocacy-related purposes with attribution to:
+  Dr. Robert J. Stevenson (“Haptic007”).
+- Public discussion of the emotional-algorithmic theory is permitted provided
+  attribution is maintained and no commercial use occurs.
+
+RESTRICTIONS
+- You may NOT copy, modify, sublicense, sell, distribute, host, or deploy any
+  portion of this repository or derivative works for commercial or political use.
+- You may NOT remove or alter copyright notices or proprietary identifiers.
+- You may NOT reproduce or repackage this framework within any competing AI,
+  legal, psychological, or emotional-governance system without prior written consent.
+
+DISCLAIMER
+This project is provided “as-is,” without warranty of any kind, express or implied,
+including but not limited to fitness for a particular purpose. Use of this framework
+constitutes acceptance of these terms.
+
+“When technology meets empathy, evolution begins.”
+— Shadowfire Doctrine
